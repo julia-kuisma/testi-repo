@@ -22,6 +22,7 @@ get_header(); ?>
 						the_content();
 						echo "Testi";
 						echo "Toinen testi";
+						echo "Kolmas testi";
 					endwhile;
 				endif; ?>
 			</div>
